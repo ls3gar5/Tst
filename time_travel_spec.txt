@@ -1,2 +1,2 @@
 it should a goo travel
-it should keep age
+it should travel from one year
