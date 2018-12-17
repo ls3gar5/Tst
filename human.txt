@@ -1,1 +1,5 @@
-Class Human
+Class Human <T>
+    where: T is class
+{
+
+}
